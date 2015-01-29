@@ -1,5 +1,5 @@
 <html>
-<head> <title> "What does this thing do?" </head></title>
+<head> <title> "What does this thing do?" </title> </head>
 <body>
 </body>
 </html>
